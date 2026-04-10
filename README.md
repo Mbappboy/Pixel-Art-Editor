@@ -1,1 +1,1 @@
-Thx. to Eloquent Javascript (Marijn Haverbeke, No Press) for the basic platformer tutorial
+Thx. to Eloquent Javascript (Marijn Haverbeke, No Starch Press) for the pixel art tutorial
